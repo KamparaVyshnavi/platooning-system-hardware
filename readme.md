@@ -231,9 +231,3 @@ The controller continuously monitors the environment and updates the display and
 - Automatic motor control
 - Cloud-based telemetry logging
 
----
-
-## Author
-
-**Manda Sanjana**
-ABV-IIITM Gwalior
